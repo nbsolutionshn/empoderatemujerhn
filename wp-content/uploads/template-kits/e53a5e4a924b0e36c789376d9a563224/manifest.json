@@ -1,0 +1,215 @@
+{
+    "manifest_version": "1.0.8",
+    "title": "Women's Networking",
+    "page_builder": "elementor",
+    "kit_version": "2.0.0",
+    "templates": [
+        {
+            "name": "Home 1 Pro",
+            "screenshot": "screenshots\/home-1-pro.jpg",
+            "source": "templates\/home-1-pro-b272aa41b9beb13486b754fbdf21e41e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1 Pro",
+            "screenshot": "screenshots\/about-1-pro.jpg",
+            "source": "templates\/about-1-pro-81a660312c0afaadb396ac80fc8c7eee.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-7494097dcea5f3cd318325bd3a948d91.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team 1",
+            "screenshot": "screenshots\/team-1.jpg",
+            "source": "templates\/team-1-5b4c03daf37b2decb7a42d898d1ce6e7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team 2",
+            "screenshot": "screenshots\/team-2.jpg",
+            "source": "templates\/team-2-ef78ba69c50e060b0d7bd99a1d7d717d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events 1",
+            "screenshot": "screenshots\/events-1.jpg",
+            "source": "templates\/events-1-7c232d24b94031a78223fb0fba020223.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events 2",
+            "screenshot": "screenshots\/events-2.jpg",
+            "source": "templates\/events-2-45dc4687a6b2f38311e1ca53c27c2424.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail-7c5315177b4dad0185b5f70002974e27.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Jobs",
+            "screenshot": "screenshots\/jobs.jpg",
+            "source": "templates\/jobs-686a52b2c8db14e486e700368afe70d1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Jobs 2",
+            "screenshot": "screenshots\/jobs-2.jpg",
+            "source": "templates\/jobs-2-e1172d2ac50a131ad5a474b894ef41c2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Join 1 Pro",
+            "screenshot": "screenshots\/join-1-pro.jpg",
+            "source": "templates\/join-1-pro-f1556ba1b5b15075ea7c253748f40aff.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Join 2",
+            "screenshot": "screenshots\/join-2.jpg",
+            "source": "templates\/join-2-d29c313295957f90e20ab74506130a04.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1 Pro",
+            "screenshot": "screenshots\/contact-1-pro.jpg",
+            "source": "templates\/contact-1-pro-36944f97e9e2ccdfc505a3a94985f63d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-ea94866d088b3da1423b0a2d7c47e5aa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-ae08f276303683125c3b5ab1a0911789.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": []
+}
